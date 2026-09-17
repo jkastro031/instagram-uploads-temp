@@ -208,14 +208,16 @@
     "media_type": "REELS",
     "fecha": "2026-09-16 19:00",
     "publicado": false,
-    "intentos": 4
+    "intentos": 5,
+    "error": true
   },
   {
     "archivo": "media/00026_reel_ig_1.mp4",
     "caption": "Por qué tu cuerpo se paraliza cuando sueñas\n\nMientras sueñas, tu cerebro está tan activo como cuando estás despierto.\nPero tu cuerpo, literal y completamente, no se puede mover. Y eso no es un\nerror: es una función de seguridad.\n\nEn este video hablamos sobre:\nLa atonía REM: el mecanismo que bloquea tus músculos mientras sueñas.\nQué pasa cuando ese freno falla (trastorno de conducta del sueño REM).\nLa parálisis del sueño: por qué a veces te despiertas y no puedes moverte.\nPor qué ese estado viene con alucinaciones, y qué dice la ciencia sobre las\nleyendas que generó en distintas culturas.\n\n¿Alguna vez tuviste parálisis del sueño? Contámelo en los comentarios.\n\nFuentes:\n- Schenck, C. H., & Mahowald, M. W. (2002). *REM sleep behavior disorder*.\n  Sleep Medicine.\n- Cheyne, J. A. (2003). *Sleep paralysis and the structure of waking-nightmare\n  hallucinations*. Dreaming.\n\n#SueñoREM #ParalisisDelSueño #Neurociencia #Curiosidades #Cerebro #Sueños",
     "media_type": "REELS",
     "fecha": "2026-09-17 12:00",
-    "publicado": false
+    "publicado": false,
+    "intentos": 1
   },
   {
     "archivo": "media/00027_reel_ig_2.mp4",
