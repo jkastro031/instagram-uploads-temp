@@ -226,7 +226,8 @@
     "media_type": "REELS",
     "fecha": "2026-09-17 19:00",
     "publicado": false,
-    "intentos": 4
+    "intentos": 5,
+    "error": true
   },
   {
     "archivo": "media/00028_reel_ig_3.mp4",
