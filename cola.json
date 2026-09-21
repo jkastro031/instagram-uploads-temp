@@ -280,14 +280,16 @@
     "media_type": "REELS",
     "fecha": "2026-09-20 19:00",
     "publicado": false,
-    "intentos": 4
+    "intentos": 5,
+    "error": true
   },
   {
     "archivo": "media/00034_reel_ig_3.mp4",
     "caption": "El punto ciego que tu cerebro rellena solo\n\nEn este momento, hay una parte de lo que ves que tu cerebro se está\ninventando por completo. No es una metáfora: es un agujero real en tu\nvisión que tu mente rellena con información falsa.\n\nEn este video hablamos sobre:\nEl punto ciego: por qué existe un vacío real de información en cada ojo.\nCómo tu cerebro rellena ese hueco extendiendo lo que ve alrededor.\nPor qué con dos ojos abiertos ni siquiera lo notas.\nEl experimento simple para comprobarlo vos mismo, en tu propia casa.\n\n¿Probaste el experimento del punto ciego? Contámelo en los comentarios.\n\nFuentes:\n- Ramachandran, V. S. (1992). *Blind spots*. Scientific American.\n- Churchland, P. S., & Ramachandran, V. S. (1996). *Filling in: Why Descartes'\n  neuroscience was wrong*.\n\n#PuntoCiego #Neurociencia #Percepcion #Curiosidades #Cerebro #Ciencia",
     "media_type": "REELS",
     "fecha": "2026-09-21 12:00",
-    "publicado": false
+    "publicado": false,
+    "intentos": 1
   },
   {
     "archivo": "media/00035_reel_ig_1.mp4",
