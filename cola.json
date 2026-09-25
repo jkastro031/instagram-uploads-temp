@@ -343,7 +343,8 @@
     "media_type": "REELS",
     "fecha": "2026-09-24 12:00",
     "publicado": false,
-    "intentos": 4
+    "intentos": 5,
+    "error": true
   },
   {
     "archivo": "media/00041_reel_ig_1.mp4",
@@ -351,7 +352,7 @@
     "media_type": "REELS",
     "fecha": "2026-09-24 19:00",
     "publicado": false,
-    "intentos": 2
+    "intentos": 3
   },
   {
     "archivo": "media/00042_reel_ig_2.mp4",
