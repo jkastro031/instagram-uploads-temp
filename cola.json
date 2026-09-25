@@ -352,14 +352,16 @@
     "media_type": "REELS",
     "fecha": "2026-09-24 19:00",
     "publicado": false,
-    "intentos": 4
+    "intentos": 5,
+    "error": true
   },
   {
     "archivo": "media/00042_reel_ig_2.mp4",
     "caption": "El efecto de mera exposición: por qué te gusta lo conocido\n\n¿Por qué tu canción favorita, la primera vez que la escuchaste, quizás ni\nte gustó? Muchas veces no es que la canción mejoró: eres tú, que la fuiste\nescuchando más veces.\n\nEn este video hablamos sobre:\nEl efecto de mera exposición: por qué repetir algo lo hace gustar más.\nEl experimento original con formas y caras repetidas.\nPor qué preferís la foto de tu cara en espejo, y tus amigos no.\nEl límite de la repetición: cuándo deja de gustar y empieza a cansar.\n\n¿Te pasó con alguna canción o película? Contámelo en los comentarios.\n\nFuentes:\n- Zajonc, R. B. (1968). *Attitudinal effects of mere exposure*. Journal of\n  Personality and Social Psychology.\n- Mita, T. H., et al. (1977). *Reversed facial images and the mere-exposure\n  hypothesis*.\n\n#MeraExposicion #Psicologia #Curiosidades #Cerebro #Percepcion #Musica",
     "media_type": "REELS",
     "fecha": "2026-09-25 12:00",
-    "publicado": false
+    "publicado": false,
+    "intentos": 1
   },
   {
     "archivo": "media/00043_reel_ig_3.mp4",
