@@ -370,14 +370,16 @@
     "media_type": "REELS",
     "fecha": "2026-09-25 19:00",
     "publicado": false,
-    "intentos": 4
+    "intentos": 5,
+    "error": true
   },
   {
     "archivo": "media/00044_reel_ig_1.mp4",
     "caption": "Qué hacían los primeros humanos durante la noche\n\nAntes de que existiera la electricidad, cuando el sol se ocultaba, el mundo\nentero se apagaba por completo. ¿Qué hacían los primeros humanos cuando\nllegaba esa oscuridad total?\n\nEn este video hablamos sobre:\nLa vuelta al refugio antes de que cayera la noche.\nEl fuego: mucho más que calor, el centro de la vida nocturna del grupo.\nPor qué es probable que durmieran por turnos, alerta ante cualquier sonido.\nEl cielo nocturno que casi nadie puede ver hoy, sin contaminación lumínica.\n\n¿Te imaginas una noche así, sin ninguna luz artificial? Contámelo en los\ncomentarios.\n\nFuentes:\n- Wrangham, R. (2009). *Catching Fire: How Cooking Made Us Human*. Basic\n  Books.\n- Samson, D. R., et al. (2017). *Segmented sleep in a nonelectric,\n  small-scale agricultural society*. American Journal of Physical\n  Anthropology.\n- Wiessner, P. (2014). *Embers of society: Firelight talk among the Ju/'hoansi\n  Bushmen*. PNAS.\n\n#HistoriaHumana #Evolucion #Prehistoria #Curiosidades #Antropologia #Ciencia",
     "media_type": "REELS",
     "fecha": "2026-09-26 12:00",
-    "publicado": false
+    "publicado": false,
+    "intentos": 1
   },
   {
     "archivo": "media/00045_reel_ig_2.mp4",
